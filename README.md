@@ -1,4 +1,4 @@
-![logo](https://github.com/MusfiqurRahmanShahed/MusfiqurRahmanShahed/blob/main/Github_logo.png)
+![logo](https://github.com/MusfiqurRahmanShahed/MusfiqurRahmanShahed/blob/main/github.avif)
 
 <h1 align="center">Hi 👋, I'm SM Musfiqur Rahman</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
